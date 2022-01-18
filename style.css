@@ -1,0 +1,46 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(214, 204, 195);
+
+
+}  
+.Probability{
+    background-color:rgb(235, 68, 68);
+    
+}
+.CO,.CO-Lab{
+    background-color:rgb(39, 180, 39) ;
+    text-decoration-line: none;
+}
+.TOC{
+    background-color:rgb(60, 124, 175);
+    text-decoration-line: none;
+    
+}
+
+.DSA,.DSA-Lab,.DSA-T{
+    background-color:orange;
+    text-decoration: none;
+}
+.LTM{
+    background-color: orchid;
+    text-decoration-line: none;
+}
+.LS{
+    background-color: rgb(12, 92, 92);
+}
+table{
+    font-size:22px;
+}
+td{
+    text-decoration:none;
+}
+.logo{
+    align-self: center;
+    height: 150px;
+
+}
+a { 
+    text-decoration: none;
+    color:black;
+ }
